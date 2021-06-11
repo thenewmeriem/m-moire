@@ -1,0 +1,15 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=7	;Analysis GUID
+LOCALIZATION_UTF8=3B28532F48524A11A807FE11D8D18376	Utilisateur	C:\Mes Projets\cabinet\Exe\Utilisateur.fic
+LOCALIZATION_UTF8=F619BB9582AF42B0811B39818588C0A3	Type_utilisateur	C:\Mes Projets\cabinet\Exe\Type_utilisateur.fic
+LOCALIZATION_UTF8=587ACC29EB7D42EDA694C82FCE74A04B	Patient	C:\Mes Projets\cabinet\Exe\Patient.fic
+LOCALIZATION_UTF8=8BCB9167C2CC45D6933E47336AE80DF3	Consultation	C:\Mes Projets\cabinet\Exe\Consultation.fic
+LOCALIZATION_UTF8=723CD2B55C0C4F0F99DEB9A56BFE4574	RDV	C:\Mes Projets\cabinet\Exe\RDV.fic
+LOCALIZATION_UTF8=C1775BA1A4EB456598E61205963BEDF4	Patient	C:\Mes Projets\cabinet\Exe\Patient.fic
+LOCALIZATION_UTF8=BE547A840DAB4B3D963BCC23C1EF7614	Rendez_vous	C:\Mes Projets\cabinet\Exe\Rendez_vous.fic
+LOCALIZATION_UTF8=FA1ECEF72559401CA316B8BC3D5A8F7A	Consultation	C:\Mes Projets\cabinet\Exe\Consultation.fic
+LOCALIZATION_UTF8=9795764772E44521BD932A7F2546CF21	Certificat	C:\Mes Projets\cabinet\Exe\Certificat.fic
+LOCALIZATION_UTF8=13729E321CE342A9A9028EAE1D12930E	Médicament	C:\Mes Projets\cabinet\Exe\Médicament.fic
+LOCALIZATION_UTF8=929617042E244685BF787C92D0F8BE2E	Médicament	C:\Mes Projets\cabinet\Exe\Médicament.fic
+LOCALIZATION_UTF8=69E0C659CEEF452C842FF8847DF52F1C	Ordonnance	C:\Mes Projets\cabinet\Exe\Ordonnance.fic
